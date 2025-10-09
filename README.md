@@ -1,6 +1,3 @@
-# portfolio
-my portfolio.
-
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
